@@ -1,0 +1,10 @@
+let canvas;
+let canvasContext;
+let move = 500;
+let speed = 1;
+let jump = 450;
+let originalPos = 450;
+let eye1speed = 513;
+let eye2speed = 538;
+let eyejump = 465;
+let eyepos = 465;
